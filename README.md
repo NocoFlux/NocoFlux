@@ -29,7 +29,7 @@ I'm always open to collaborating with fellow developers and learning from new pe
 
 <h3 align="left">🖇️ Cᴏɴᴛᴀᴄᴛ Me</h3>
 
-![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=N%E1%B4%8F%E1%B4%84%E1%B4%8FF%CA%9F%E1%B4%9Cx&labelColor=light%20green&color=blue&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=N%E1%B4%8F%E1%B4%84%E1%B4%8FF%CA%9F%E1%B4%9Cx&labelColor=light%20green&color=blue&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](https://t.me/abidabdullah199)
 
-![Static Badge](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&label=N%E1%B4%8F%E1%B4%84%E1%B4%8FF%CA%9F%E1%B4%9Cx%20B%E1%B4%8F%E1%B4%9B%E1%B4%A2&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Static Badge](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&label=N%E1%B4%8F%E1%B4%84%E1%B4%8FF%CA%9F%E1%B4%9Cx%20B%E1%B4%8F%E1%B4%9B%E1%B4%A2&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](mailto:abidabdullahown@gmail.com)
 
