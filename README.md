@@ -2,9 +2,15 @@
     <img src="https://envs.sh/IZG.jpg" alt="Image" style="width: 600px; height: 120px;">
 </div>
 
+ <!-- Adds space between the image and the section below -->
+
+### ✨ About 
+👋 I'm an avid programmer and a fan of all things tech.
+
 **GitHub Visitors**  
 ![Visitors](https://img.shields.io/badge/visitors-5,000-blue?style=for-the-badge&logo=github&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-100%25-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 <br>
 
 ### 💻 Development Stack
