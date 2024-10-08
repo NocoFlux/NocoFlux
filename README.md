@@ -2,10 +2,17 @@
 <br>
 
 ### 💻 Development Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-     
-   
+**Programming Languages**  
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)  
 
+**Databases**  
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)  
+
+**Backend Frameworks**  
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)  
+
+**Hosting Services**  
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Koyeb](https://img.shields.io/badge/koyeb-0B77E2?style=for-the-badge&logo=koyeb&logoColor=white)  
 <br>
 
 ##
