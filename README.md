@@ -1,17 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abid Abdullah</h1>
-<h3 align="center">Who am I ? It's me-The man who will surpass everyone.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nocoflux&label=Profile%20views&color=0e75b6&style=flat" alt="nocoflux" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abidabdullah199" target="blank"><img src="https://img.shields.io/twitter/follow/abidabdullah199?logo=twitter&style=for-the-badge" alt="abidabdullah199" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Java, Javascript, MongoDB**
-
-- 💬 Ask me about **Telegram Bots, Java**
-
-- 📫 How to reach me **abidabdullahown@gmail.com**
-
-- ⚡ Fun fact **I think I wanna funny so much sometimes.**
 
 <h3 align="left">Telegram Channels</h3>
 <p align="left">
@@ -24,7 +11,14 @@
 
 ![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Discussion%20Group&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
 
+##
+<br>
 
+### 🤝 Collaboration
+I'm always open to collaborating with fellow developers and learning from new perspectives. If you have an exciting project or idea in mind, don't hesitate to get in touch. Together, we can build something great!
+<br>
+
+##
 
 <h3 align="left">Cᴏɴᴛᴀᴄᴛ Mᴇ:</h3>
 
