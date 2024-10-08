@@ -9,7 +9,7 @@
 
 ##
 
-<h3 align="left">Anime Channels</h3>
+<h3 align="left">🗿 Anime Channels</h3>
 <p align="left">
   
 ![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Anime%20Quest&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
@@ -28,7 +28,7 @@ I'm always open to collaborating with fellow developers and learning from new pe
 
 ##
 
-<h3 align="left">Cᴏɴᴛᴀᴄᴛ Me</h3>
+<h3 align="left">🖇️ Cᴏɴᴛᴀᴄᴛ Me</h3>
 
 ![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=N%E1%B4%8F%E1%B4%84%E1%B4%8FF%CA%9F%E1%B4%9Cx&labelColor=light%20green&color=blue&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
 
