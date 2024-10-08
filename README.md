@@ -11,13 +11,13 @@
 <h3 align="left">🗿 Anime Channels</h3>
 <p align="left">
   
-![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Anime%20Quest&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Anime Quest](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Anime%20Quest&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](https://t.me/AnimeQuestX)
 
-![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Ongoing%20Anime&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Ongoing Anime Quest](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Ongoing%20Anime&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](https://t.me/OngoingAnimeQuest)
 
-![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Donghua%20Quest&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Donghua Quest](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Donghua%20Quest&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](https://t.me/DonghuaQuest)
 
-![Static Badge](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Discussion%20Group&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)
+[![Discussion Group](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&label=Discussion%20Group&labelColor=light%20green&color=garnet%20red&link=https%3A%2F%2Ft.me%2Fabidabdullah199)](https://t.me/AnimeQuestChat)
 ##
 <br>
 
