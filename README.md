@@ -1,6 +1,6 @@
-<p align="center">
-<img src="[https://envs.sh/IZc.jp]">
-</p>
+<div style="text-align: right;">
+    <img src="https://envs.sh/IZG.jpg" alt="Image" style="width: 600px; height: 120px;">
+</div>
 
 **GitHub Visitors**  
 ![Visitors](https://img.shields.io/badge/visitors-5,000-blue?style=for-the-badge&logo=github&logoColor=white)  
